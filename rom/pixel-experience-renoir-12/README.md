@@ -10,6 +10,7 @@ Ensure the bootloader is unlocked, see [Mi Unlock](../../misc/Mi%20Unlock.md).
 
 To build the package, you are expected to be on Arch Linux:
 
+- Clone the repository locally and run `cd rom/pixel-experience-renoir-12`.
 - Run each script in this directory in order from `0` to `3`
 - Your Android ROM package will be available in `android/pe/out/target/product/renoir`
 - You now have a file with a name similar to `PixelExperience_renoir-12.1-20221001-1315-UNOFFICIAL.zip` and `boot.img` which you need for the installation step
